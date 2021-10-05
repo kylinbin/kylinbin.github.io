@@ -212,13 +212,15 @@ nav.navigation a.button {
   margin-top: 36px;
 }
 .toc details summary {
-  cursor: zoom-in;
+  /*cursor: zoom-in;*/
   margin-inline-start: 14px;
   font-weight: 500;
 }
+/*
 .toc details[open] summary {
   cursor: zoom-out;
 }
+*/
 .toc #TableOfContents {
   margin-left: 10px;
 }
